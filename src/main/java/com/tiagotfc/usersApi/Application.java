@@ -19,7 +19,7 @@ public class Application {
 		// CommandLineRunner runs after application starter
 	CommandLineRunner user() {
 		return args -> {
-			User user = new User("tiagoc0sta", "Tiago", "Costa", "tiago@tiagotfc.com","654985777");
+			User user = new User(1, "tiagoc0sta", "Tiago", "Costa", "tiago@tiagotfc.com","654985777");
 			System.out.println(user);
 		};
 	}
