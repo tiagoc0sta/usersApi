@@ -107,3 +107,7 @@ DELETE /api/users/{id}
 #### Swagger
 ##### http://localhost:8080/swagger-ui/index.html#
 ![image](https://github.com/user-attachments/assets/1da2aa80-1df1-44cd-a961-7f71c44da74c)
+
+
+### tests
+#### ![image](https://github.com/user-attachments/assets/e56fabf7-b902-46ea-9b95-9d373888f36e)
