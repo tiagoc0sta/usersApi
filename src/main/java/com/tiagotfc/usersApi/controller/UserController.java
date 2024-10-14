@@ -1,6 +1,8 @@
-package com.tiagotfc.usersApi.users;
+package com.tiagotfc.usersApi.controller;
 
 
+import com.tiagotfc.usersApi.model.User;
+import com.tiagotfc.usersApi.repository.UserRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

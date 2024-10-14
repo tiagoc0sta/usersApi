@@ -1,4 +1,4 @@
-package com.tiagotfc.usersApi.users;
+package com.tiagotfc.usersApi.model;
 
 import java.util.List;
 

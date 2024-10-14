@@ -1,13 +1,10 @@
-package com.tiagotfc.usersApi.users;
+package com.tiagotfc.usersApi.repository;
 
-import jakarta.annotation.PostConstruct;
+import com.tiagotfc.usersApi.model.User;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.Assert;
 
-import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 

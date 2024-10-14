@@ -1,6 +1,7 @@
-package com.tiagotfc.usersApi.users;
+package com.tiagotfc.usersApi.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.tiagotfc.usersApi.model.UsersRecord;
 import org.springframework.aot.hint.TypeReference;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

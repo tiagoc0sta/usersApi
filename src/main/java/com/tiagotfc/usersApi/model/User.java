@@ -1,4 +1,4 @@
-package com.tiagotfc.usersApi.users;
+package com.tiagotfc.usersApi.model;
 
 public record User(
         Integer id,
