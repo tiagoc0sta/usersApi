@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/users") //every method falls under this path
+@RequestMapping("/api/users")
 public class UserController {
 
     private final UserRepository userRepository;
@@ -22,6 +22,7 @@ public class UserController {
     List<User> findAll() {
         return userRepository.findAll();
     }
+
 
     //GET (read by ID in CRUD)
     @GetMapping("/{id}")

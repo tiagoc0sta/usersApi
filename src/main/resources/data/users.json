@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "ironman",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "iron@gmail.com",
+      "phone": "6479885550"
+    },
+    {
+      "id": 2,
+      "userName": "americanCaptain",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "stever@gmail.com",
+      "phone": "9579885550"
+    },
+    {
+      "id": 3,
+      "userName": "hulk",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "bbanner@gmail.com",
+      "phone": "8879885550"
+    },
+    {
+      "id": 4,
+      "userName": "blackWidow",
+      "firstName": "Natasha",
+      "lastName": "Romanoff",
+      "email": "natasha@gmail.com",
+      "phone": "6475565550"
+    },
+    {
+      "id": 5,
+      "userName": "thor",
+      "firstName": "Thor",
+      "lastName": "Odinson",
+      "email": "thor@gmail.com",
+      "phone": "6478885550"
+    },
+    {
+      "id": 6,
+      "userName": "spiderman",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peter@gmail.com",
+      "phone": "6471235550"
+    },
+    {
+      "id": 7,
+      "userName": "blackPanther",
+      "firstName": "T'Challa",
+      "lastName": "King",
+      "email": "tchalla@gmail.com",
+      "phone": "6474445550"
+    },
+    {
+      "id": 8,
+      "userName": "doctorStrange",
+      "firstName": "Stephen",
+      "lastName": "Strange",
+      "email": "stephen@gmail.com",
+      "phone": "6479995555"
+    },
+    {
+      "id": 9,
+      "userName": "scarletWitch",
+      "firstName": "Wanda",
+      "lastName": "Maximoff",
+      "email": "wanda@gmail.com",
+      "phone": "6477775550"
+    },
+    {
+      "id": 10,
+      "userName": "nickFury",
+      "firstName": "Nick",
+      "lastName": "Fury",
+      "email": "nick@gmail.com",
+      "phone": "6474535555"
+    }
+  ]
+
+}
+

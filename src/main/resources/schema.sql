@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Run (
+CREATE TABLE IF NOT EXISTS UsersList (
    id INT NOT NULL,
    user_name varchar(250) NOT NULL,
    first_name varchar(250) NOT NULL,
