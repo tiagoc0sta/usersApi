@@ -66,11 +66,5 @@ public class UserRepository {
         users.stream().forEach(this::create);
     }
 
-//    public List<User> findByLocation(String location) {
-//        return jdbcClient.sql("select * from UsersList where location = :location")
-//                .param("location", location)
-//                .query(Run.class)
-//                .list();
-//    }
 
 }

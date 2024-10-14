@@ -42,7 +42,7 @@ public class UserController {
         userRepository.create(user);
     }
 
-    // PUT (create and update),
+    // PUT (Update),
     @ResponseStatus(HttpStatus.NO_CONTENT)
     @PutMapping("/{id}")
     void update(@RequestBody User user, @PathVariable Integer id) {

@@ -16,14 +16,4 @@ public class Application {
 
 	}
 
-//	@Bean //instance of a class with metadata
-//		// CommandLineRunner runs after application starter
-//	CommandLineRunner user(UserRepository userRepository) {
-//		return args -> {
-//			User user = new User(1, "tiagoc0sta", "Tiago", "Costa", "tiago@tiagotfc.com","654985777");
-//			userRepository.create(user);
-//			System.out.println(user);
-//		};
-//	}
-
 }
